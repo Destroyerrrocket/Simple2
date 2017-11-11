@@ -1,6 +1,7 @@
 int X, Y = 0;
 color COLOR;
 
+
 void setup () {
   size(510, 510);
 }
