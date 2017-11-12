@@ -5,6 +5,8 @@ void setup () {
   size(510, 510);
 }
 
+
+
 void draw () {
   COLOR = color(X, Y, 0);
   fill(COLOR);
